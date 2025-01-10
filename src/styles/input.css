@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+    @font-face{
+        font-family: 'Mulish-Black';
+        font-weight: 900;
+        src: url('/fonts/Mulish-Black.ttf');
+    }
+}
